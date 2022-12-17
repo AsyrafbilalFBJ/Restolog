@@ -21,7 +21,7 @@ function ProductCard(props){
                 </h3>
                 <Link 
                     to={`/${props.meal.idMeal}`}
-                    className="bg-amber-400 text-white p-2 flex justify-center w-full"
+                    className="bg-amber-300 active:bg-amber-500 hover:bg-amber-400 text-black p-2 flex justify-center w-full rounded "
                 >
                     Instructions
                 </Link>

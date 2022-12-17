@@ -3,12 +3,12 @@ import logo from '../profile.jpg'
 
 function About(){
     return (
-        <div className="h-100 block">
+        <div>
             <h1 className="font-bold text-xl mb-3 text-center">Asyrafbilal Fadhila Bhinar Jaya</h1>
             <h3 className="font-bold text-l mb-3 text-center">
                 Junior Front-End Developer
             </h3>
-            <div className="rounded-full">
+            <div className="rounded-md mb-3">
                 <img src={logo} alt="profile" />
             </div>
             

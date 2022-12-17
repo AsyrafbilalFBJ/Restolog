@@ -11,7 +11,7 @@ function NavigationMenu(props){
                 <li>
                     <Link 
                         to="/" 
-                        className="text-amber-400 py-3 border-t border-b block"
+                        className="text-amber-600 py-3 border-t border-b block"
                         onClick={props.closeMenu}
                     >
                         Home
@@ -20,7 +20,7 @@ function NavigationMenu(props){
                 <li>
                     <Link 
                         to="/about" 
-                        className="text-amber-400 py-3 border-b block"
+                        className="text-amber-600 py-3 border-b block"
                         onClick={props.closeMenu}
                     >
                         About me

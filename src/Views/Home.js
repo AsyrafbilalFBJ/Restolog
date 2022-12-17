@@ -36,7 +36,7 @@ function Home(){
     return (
         <div className="container mx-auto">
             <h1 className="font-bold text-xl mb-3">
-                Best Sellers
+                Beef Foods
             </h1>
             <div className="md:flex flex-wrap md:-mx-3">
                 { content } 
