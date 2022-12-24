@@ -8,8 +8,8 @@ function About(){
             <h3 className="font-bold text-l mb-3 text-center">
                 Junior Front-End Developer
             </h3>
-            <div className="rounded-md mb-3">
-                <img src={logo} alt="profile" />
+            <div className=" mb-3">
+                <img src={logo} alt="profile"/>
             </div>
             
             <p>
