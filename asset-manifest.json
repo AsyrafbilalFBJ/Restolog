@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AsyrafbilalFBJ/Restolog/static/css/main.a9629654.css",
-    "main.js": "/AsyrafbilalFBJ/Restolog/static/js/main.00919d2e.js",
-    "static/js/787.26da9b02.chunk.js": "/AsyrafbilalFBJ/Restolog/static/js/787.26da9b02.chunk.js",
-    "static/media/profile.jpg": "/AsyrafbilalFBJ/Restolog/static/media/profile.35430cc36ae9b1113f6f.jpg",
-    "index.html": "/AsyrafbilalFBJ/Restolog/index.html",
-    "main.a9629654.css.map": "/AsyrafbilalFBJ/Restolog/static/css/main.a9629654.css.map",
-    "main.00919d2e.js.map": "/AsyrafbilalFBJ/Restolog/static/js/main.00919d2e.js.map",
-    "787.26da9b02.chunk.js.map": "/AsyrafbilalFBJ/Restolog/static/js/787.26da9b02.chunk.js.map"
+    "main.css": "/Restolog/static/css/main.a9629654.css",
+    "main.js": "/Restolog/static/js/main.767b4625.js",
+    "static/js/787.26da9b02.chunk.js": "/Restolog/static/js/787.26da9b02.chunk.js",
+    "static/media/profile.jpg": "/Restolog/static/media/profile.35430cc36ae9b1113f6f.jpg",
+    "index.html": "/Restolog/index.html",
+    "main.a9629654.css.map": "/Restolog/static/css/main.a9629654.css.map",
+    "main.767b4625.js.map": "/Restolog/static/js/main.767b4625.js.map",
+    "787.26da9b02.chunk.js.map": "/Restolog/static/js/787.26da9b02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9629654.css",
-    "static/js/main.00919d2e.js"
+    "static/js/main.767b4625.js"
   ]
 }
