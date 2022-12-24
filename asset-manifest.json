@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Restolog/static/css/main.a9629654.css",
-    "main.js": "/Restolog/static/js/main.be331a03.js",
+    "main.js": "/Restolog/static/js/main.54faaf70.js",
     "static/js/787.26da9b02.chunk.js": "/Restolog/static/js/787.26da9b02.chunk.js",
     "static/media/profile.jpg": "/Restolog/static/media/profile.35430cc36ae9b1113f6f.jpg",
     "index.html": "/Restolog/index.html",
     "main.a9629654.css.map": "/Restolog/static/css/main.a9629654.css.map",
-    "main.be331a03.js.map": "/Restolog/static/js/main.be331a03.js.map",
+    "main.54faaf70.js.map": "/Restolog/static/js/main.54faaf70.js.map",
     "787.26da9b02.chunk.js.map": "/Restolog/static/js/787.26da9b02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9629654.css",
-    "static/js/main.be331a03.js"
+    "static/js/main.54faaf70.js"
   ]
 }
