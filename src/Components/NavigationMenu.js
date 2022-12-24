@@ -10,7 +10,7 @@ function NavigationMenu(props){
             <ul>
                 <li>
                     <Link 
-                        to="/" 
+                        to="/Restolog/" 
                         className="text-amber-600 py-3 border-t border-b block"
                         onClick={props.closeMenu}
                     >
@@ -19,7 +19,7 @@ function NavigationMenu(props){
                 </li>
                 <li>
                     <Link 
-                        to="/about" 
+                        to="/Restolog/about" 
                         className="text-amber-600 py-3 border-b block"
                         onClick={props.closeMenu}
                     >

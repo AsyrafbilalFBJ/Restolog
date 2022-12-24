@@ -14,9 +14,9 @@ function App() {
 
         <div className="p-3">
         <Routes>
-          <Route exact path="/" element={<Home />}/>
-          <Route path="/about" element={<About />}/>
-          <Route path="/:id" element={<Product />}/>
+          <Route exact path="/Restolog/" element={<Home />}/>
+          <Route path="/Restolog/about" element={<About />}/>
+          <Route path="/Restolog/:id" element={<Product />}/>
         </Routes>
         </div>
         <Footer/>
